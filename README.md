@@ -1,1 +1,1 @@
-# yoonwooj.github.io-memoapp
+# yoonwooj.github.io/memoapp
